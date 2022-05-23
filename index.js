@@ -1,2 +1,2 @@
 
-// Write your code here
+// Let (`number' * num2)= 62
